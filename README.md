@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home SOC Lab (Wazuh + Cowrie Honeypot)</b>
-  - [SOC Lab: Attack Simulation & Detection](https://github.com/Jiubel/Jiubel-s-Home-SOC-Lab)
+  - [SOC Lab: Attack Simulation & Detection](https://jiubel.github.io/Jiubelsproject1.github.io/)
 
 <h2>Cerifications</h2>
 
