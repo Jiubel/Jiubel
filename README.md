@@ -1,5 +1,8 @@
 <h1>Hi, I'm Jiubel! <br/><a href="https://linkedin.com/in/jiubel">IT Help Desk Coordinator</a>
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 IT & Cyber Security Projects:</h2>
+
+- <b>Enterprise Active Directory & Network Infrastructure Lab</b>
+  - [Active Directory Lab: Domain, DHCP, NAT & Automation](https://jiubel.github.io/enterprise-active-directory-lab/)
 
 - <b>Home SOC Lab (Wazuh + Cowrie Honeypot)</b>
   - [SOC Lab: Attack Simulation & Detection](https://jiubel.github.io/Jiubelsproject1.github.io/)
