@@ -5,7 +5,7 @@
   - [Active Directory Lab: Domain, DHCP, NAT & Automation](https://jiubel.github.io/enterprise-active-directory-lab/)
 
 - <b>Home SOC Lab (Wazuh + Cowrie Honeypot)</b>
-  - [SOC Lab: Attack Simulation & Detection](https://jiubel.github.io/Jiubelsproject1.github.io/)
+  - [SOC Lab: Attack Simulation & Detection](https://jiubel.github.io/security-monitoring-lab/)
 
 <h2>Cerifications</h2>
 
